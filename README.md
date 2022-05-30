@@ -1,5 +1,6 @@
 # GMFE
 Generalized Multiscale Feature Extraction for Remaining Useful Life Prediction of Bearings with Generative Adversarial Networks
+* [Generalized multiscale feature extraction for remaining useful life prediction of bearings with generative adversarial networks](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010431#!) : *published paper*
 
 *Examples of execution
 
